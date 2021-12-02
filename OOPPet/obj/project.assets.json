@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\logitpe21\\OOPPet\\OOPPet\\OOPPet.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITPE21\\Week14-OOPPet\\OOPPet\\OOPPet.csproj",
       "projectName": "OOPPet",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\OOPPet\\OOPPet\\OOPPet.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITPE21\\Week14-OOPPet\\OOPPet\\OOPPet.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\OOPPet\\OOPPet\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITPE21\\Week14-OOPPet\\OOPPet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
